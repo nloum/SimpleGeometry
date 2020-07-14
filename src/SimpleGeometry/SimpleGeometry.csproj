@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="GenericNumbers" Version="1.1.0-alpha0030" />
-    <PackageReference Include="MoreCollections" Version="1.1.0-alpha0042" />
+    <PackageReference Include="MoreCollections" Version="1.1.0-alpha0043" />
     <PackageReference Include="SimpleVectors" Version="1.0.0-alpha0009" />
   </ItemGroup>
 
