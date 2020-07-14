@@ -1,14 +1,14 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard1.4</TargetFramework>
+    <TargetFramework>netstandard2.0</TargetFramework>
     <PackageVersion>1.0.0-alpha1</PackageVersion>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="GenericNumbers" Version="1.0.0-alpha1" />
-    <PackageReference Include="MoreCollections" Version="1.0.0-pre6" />
-    <PackageReference Include="SimpleVectors" Version="1.0.0-alpha1" />
+    <PackageReference Include="GenericNumbers" Version="1.1.0-alpha0026" />
+    <PackageReference Include="MoreCollections" Version="1.0.0-alpha0040" />
+    <PackageReference Include="SimpleVectors" Version="1.0.0-alpha0007" />
   </ItemGroup>
 
 </Project>
