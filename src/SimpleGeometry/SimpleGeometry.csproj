@@ -5,9 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="GenericNumbers" Version="1.1.0-alpha0027" />
-    <PackageReference Include="MoreCollections" Version="1.0.0-alpha0041" />
-    <PackageReference Include="SimpleVectors" Version="1.0.0-alpha1" />
+    <PackageReference Include="GenericNumbers" Version="1.1.0-alpha0030" />
+    <PackageReference Include="MoreCollections" Version="1.1.0-alpha0042" />
+    <PackageReference Include="SimpleVectors" Version="1.0.0-alpha0009" />
   </ItemGroup>
 
 </Project>
