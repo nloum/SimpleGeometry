@@ -2,12 +2,16 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleGeometry", "SimpleGeometry\SimpleGeometry.csproj", "{46FA566E-3B69-4B85-9EEB-3CB1F7B86845}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_build", "..\build\_build.csproj", "{0AE68CA3-48DB-4D92-BA53-7CBD644EAC75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AE68CA3-48DB-4D92-BA53-7CBD644EAC75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE68CA3-48DB-4D92-BA53-7CBD644EAC75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46FA566E-3B69-4B85-9EEB-3CB1F7B86845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{46FA566E-3B69-4B85-9EEB-3CB1F7B86845}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46FA566E-3B69-4B85-9EEB-3CB1F7B86845}.Release|Any CPU.ActiveCfg = Release|Any CPU
